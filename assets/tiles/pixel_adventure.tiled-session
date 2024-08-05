@@ -1,0 +1,45 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "level01.tmx",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "fileStates": {
+        "level01.tmx": {
+            "scale": 1.5,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 224,
+                "y": 221.66666666666669
+            }
+        },
+        "pixel_adventure.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        }
+    },
+    "last.imagePath": "E:/flutter project/pixel_advanture/assets/images/Terrain",
+    "map.height": 23,
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 16,
+    "map.tileWidth": 16,
+    "map.width": 40,
+    "openFiles": [
+        "pixel_adventure.tsx",
+        "level01.tmx"
+    ],
+    "project": "pixel_adventure.tiled-project",
+    "recentFiles": [
+        "pixel_adventure.tsx",
+        "level01.tmx"
+    ],
+    "resizeMap.removeObjects": false,
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 16,
+        "width": 16
+    }
+}
